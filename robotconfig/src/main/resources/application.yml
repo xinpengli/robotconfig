@@ -1,0 +1,12 @@
+
+logging:
+  config: classpath:config/log/log4j2.xml
+server.:
+  port: 61002
+  servlet.:
+    context-path: /robotconfig
+
+
+
+
+
